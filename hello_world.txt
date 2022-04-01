@@ -1,2 +1,2 @@
-This is my first file commited to GitHub.
+This is my first file committed to GitHub.
 Hello World!
